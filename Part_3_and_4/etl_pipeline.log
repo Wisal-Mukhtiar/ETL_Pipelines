@@ -1,0 +1,43 @@
+2025-05-24 14:04:41,098 - INFO - Starting Enhanced ETL Pipeline with Batch Processing
+2025-05-24 14:04:41,098 - INFO - Setting up database schema and indexes...
+2025-05-24 14:04:41,515 - ERROR - Connection error: 1049 (42000): Unknown database 'sales_db'
+2025-05-24 14:04:42,082 - INFO - Database 'sales_db' created
+2025-05-24 14:04:42,540 - INFO - Connected to MySQL database 'sales_db'
+2025-05-24 14:04:42,907 - INFO - Created table
+2025-05-24 14:04:42,986 - INFO - Created table
+2025-05-24 14:04:43,165 - INFO - Created table
+2025-05-24 14:04:43,624 - INFO - Created index
+2025-05-24 14:04:43,732 - INFO - Created index
+2025-05-24 14:04:43,849 - INFO - Created index
+2025-05-24 14:04:43,882 - INFO - Database schema and indexes created successfully
+2025-05-24 14:04:43,923 - INFO - Extracting from ..\data\sales_data.json...
+2025-05-24 14:04:43,932 - INFO - Extracted 500 records
+2025-05-24 14:04:43,932 - INFO - Transforming data...
+2025-05-24 14:04:43,964 - INFO - Performing data quality checks...
+2025-05-24 14:04:43,972 - WARNING - Fixed 27 negative quantities
+2025-05-24 14:04:43,972 - INFO - Data Quality Issues Summary:
+2025-05-24 14:04:43,972 - INFO - - Negative Quantities: 27
+2025-05-24 14:04:43,972 - INFO - Transformation complete. Final shape: (500, 15)
+2025-05-24 14:04:43,972 - INFO - Loading data with batch processing (batch_size=1000)...
+2025-05-24 14:04:44,031 - INFO - Created SQLAlchemy engine for database 'sales_db'
+2025-05-24 14:04:44,031 - INFO - Prepared 101 unique customers for loading
+2025-05-24 14:04:44,031 - INFO - Prepared 13 unique products for loading
+2025-05-24 14:04:44,039 - INFO - Prepared 500 transactions for loading
+2025-05-24 14:04:44,039 - INFO - Loading 101 rows to customers in 1 batches
+2025-05-24 14:04:45,065 - INFO - Loaded batch 1/1 for customers
+2025-05-24 14:04:45,065 - INFO - Loading 13 rows to products in 1 batches
+2025-05-24 14:04:45,281 - INFO - Loaded batch 1/1 for products
+2025-05-24 14:04:45,290 - INFO - Loading 500 rows to transactions in 1 batches
+2025-05-24 14:04:45,865 - INFO - Loaded batch 1/1 for transactions
+2025-05-24 14:04:45,865 - INFO - Batch loading completed successfully
+2025-05-24 14:04:45,865 - INFO - Running analytical queries...
+2025-05-24 14:04:45,865 - INFO - Created SQLAlchemy engine for database 'sales_db'
+2025-05-24 14:04:45,865 - INFO - Running analytical queries...
+2025-05-24 14:04:45,873 - INFO - 
+=== QUERY 1: Regional Sales Summary ===
+2025-05-24 14:04:46,865 - INFO - 
+=== QUERY 2: Top 5 Products by Sales ===
+2025-05-24 14:04:47,053 - INFO - 
+=== QUERY 3: Monthly Sales Trends ===
+2025-05-24 14:04:47,236 - INFO - Analytics queries completed successfully
+2025-05-24 14:04:47,236 - INFO - Enhanced ETL pipeline completed successfully

@@ -1,0 +1,6502 @@
+[
+  {
+    "transaction_id": "T001",
+    "customer_id": "C001",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 2,
+    "date": "2023-01-15T10:30:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T002",
+    "customer_id": "C002",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 5,
+    "date": "2023-02-10T14:15:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T003",
+    "customer_id": null,
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": -1,
+    "date": "2023-03-05",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T004",
+    "customer_id": "C003",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 3,
+    "date": "2023-04-20T09:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T005",
+    "customer_id": "C001",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 10,
+    "date": "2023-05-12",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T006",
+    "customer_id": "C098",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 19,
+    "date": "2023-06-25T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T007",
+    "customer_id": "C064",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 5,
+    "date": "2023-05-18T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T008",
+    "customer_id": null,
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": -4,
+    "date": "2023-03-12T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T009",
+    "customer_id": "C063",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 6,
+    "date": "2023-11-18T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T010",
+    "customer_id": "C047",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": -1,
+    "date": "10/09/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T011",
+    "customer_id": "C001",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 18,
+    "date": "2023-02-22T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T012",
+    "customer_id": "C037",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 4,
+    "date": "2023-11-21T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T013",
+    "customer_id": "C029",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 11,
+    "date": "2023-09-07T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T014",
+    "customer_id": "C007",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 10,
+    "date": "2023-05-04T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T015",
+    "customer_id": null,
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": -7,
+    "date": "29/11/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T016",
+    "customer_id": "C058",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 16,
+    "date": "2023-05-26T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T017",
+    "customer_id": "C080",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 20,
+    "date": "2023-07-24T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T018",
+    "customer_id": null,
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 15,
+    "date": "2023-04-01",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T019",
+    "customer_id": "C011",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 1,
+    "date": "2023-10-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T020",
+    "customer_id": "C052",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 20,
+    "date": "2023-01-06T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T021",
+    "customer_id": "C029",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 2,
+    "date": "2023-06-11T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T022",
+    "customer_id": "C013",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": -4,
+    "date": "30/09/2023",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T023",
+    "customer_id": "C055",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 15,
+    "date": "2023-03-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T024",
+    "customer_id": "C011",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 16,
+    "date": "2023-08-12T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T025",
+    "customer_id": "C014",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 18,
+    "date": "2023-02-21T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T026",
+    "customer_id": "C077",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 15,
+    "date": "2023-10-20T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T027",
+    "customer_id": "C064",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 13,
+    "date": "2023-03-13T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T028",
+    "customer_id": "C084",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 13,
+    "date": "2023-03-20T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T029",
+    "customer_id": "C085",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 20,
+    "date": "2023-07-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T030",
+    "customer_id": "C003",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 2,
+    "date": "2023-07-15T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T031",
+    "customer_id": null,
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": -8,
+    "date": "2023-10-26T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T032",
+    "customer_id": "C066",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 8,
+    "date": "2023-04-22T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T033",
+    "customer_id": "C047",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 12,
+    "date": "2023-12-05T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T034",
+    "customer_id": "C006",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 11,
+    "date": "2023-05-21T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T035",
+    "customer_id": "C049",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 4,
+    "date": "2023-07-30T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T036",
+    "customer_id": "C042",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 9,
+    "date": "2023-08-09T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T037",
+    "customer_id": "C087",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 1,
+    "date": "2023-08-11T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T038",
+    "customer_id": "C077",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 15,
+    "date": "2023-08-07T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T039",
+    "customer_id": "C084",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 9,
+    "date": "2023-03-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T040",
+    "customer_id": null,
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 20,
+    "date": "2023-02-04T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T041",
+    "customer_id": "C082",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 18,
+    "date": "2023-01-04T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T042",
+    "customer_id": "C083",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 17,
+    "date": "2023-05-11T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T043",
+    "customer_id": "C093",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 13,
+    "date": "2023-05-02",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T044",
+    "customer_id": "C083",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 2,
+    "date": "2023-10-28T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T045",
+    "customer_id": "C025",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 11,
+    "date": "2023-07-23T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T046",
+    "customer_id": "C088",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 6,
+    "date": "2023-12-17T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T047",
+    "customer_id": "C029",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 9,
+    "date": "2023-12-06T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T048",
+    "customer_id": "C017",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 4,
+    "date": "2023-12-03T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T049",
+    "customer_id": null,
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": -5,
+    "date": "2023-11-19T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T050",
+    "customer_id": null,
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 17,
+    "date": "2023 08 14",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T051",
+    "customer_id": null,
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 16,
+    "date": "2023-05-01T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T052",
+    "customer_id": "C051",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 19,
+    "date": "2023-01-08T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T053",
+    "customer_id": "C031",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 2,
+    "date": "2023-07-05T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T054",
+    "customer_id": "C034",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 4,
+    "date": "2023-04-06T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T055",
+    "customer_id": "C032",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 1,
+    "date": "2023-08-23T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T056",
+    "customer_id": "C010",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": -10,
+    "date": "03/18/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T057",
+    "customer_id": "C034",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 15,
+    "date": "2023-09-03T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T058",
+    "customer_id": "C070",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 9,
+    "date": "2023-02-04T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T059",
+    "customer_id": null,
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 17,
+    "date": "2023-02-27T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T060",
+    "customer_id": "C005",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 19,
+    "date": "2023-04-23T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T061",
+    "customer_id": "C016",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 9,
+    "date": "2023-10-14T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T062",
+    "customer_id": "C052",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 7,
+    "date": "2023-02-19T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T063",
+    "customer_id": "C006",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 17,
+    "date": "2023-12-16T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T064",
+    "customer_id": "C081",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 13,
+    "date": "2023-07-30",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T065",
+    "customer_id": "C020",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 15,
+    "date": "2023-07-07T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T066",
+    "customer_id": "C081",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 20,
+    "date": "2023-02-16T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T067",
+    "customer_id": "C096",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 13,
+    "date": "2023-07-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T068",
+    "customer_id": "C013",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 16,
+    "date": "2023-11-20T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T069",
+    "customer_id": "C086",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 14,
+    "date": "2023-03-17T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T070",
+    "customer_id": "C013",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 14,
+    "date": "2023-10-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T071",
+    "customer_id": "C077",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 4,
+    "date": "2023-05-09T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T072",
+    "customer_id": "C093",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 8,
+    "date": "2023-06-23T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T073",
+    "customer_id": "C073",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 15,
+    "date": "2023-01-22T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T074",
+    "customer_id": null,
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 13,
+    "date": "23/04/2023",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T075",
+    "customer_id": "C043",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 3,
+    "date": "2023-11-05T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T076",
+    "customer_id": "C035",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 8,
+    "date": "2023-05-07",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T077",
+    "customer_id": "C084",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 17,
+    "date": "2023-12-20T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T078",
+    "customer_id": "C068",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 2,
+    "date": "2023-06-24T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T079",
+    "customer_id": "C019",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 15,
+    "date": "2023-10-26T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T080",
+    "customer_id": null,
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 9,
+    "date": "2023 03 27",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T081",
+    "customer_id": "C005",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 19,
+    "date": "2023-08-11T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T082",
+    "customer_id": "C010",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 10,
+    "date": "2023-04-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T083",
+    "customer_id": "C029",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 4,
+    "date": "2023-08-01T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T084",
+    "customer_id": "C090",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 7,
+    "date": "2023-11-25T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T085",
+    "customer_id": "C004",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 12,
+    "date": "2023-05-01T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T086",
+    "customer_id": "C048",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 13,
+    "date": "2023-01-12T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T087",
+    "customer_id": "C012",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 18,
+    "date": "2023-07-07T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T088",
+    "customer_id": "C009",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 19,
+    "date": "2023-03-12T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T089",
+    "customer_id": null,
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": -1,
+    "date": "2023-03-15T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T090",
+    "customer_id": "C020",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 9,
+    "date": "2023-09-20T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T091",
+    "customer_id": "C021",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 11,
+    "date": "2023-01-21T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T092",
+    "customer_id": "C049",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 7,
+    "date": "2023-05-26T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T093",
+    "customer_id": "C056",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 13,
+    "date": "2023-03-22T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T094",
+    "customer_id": "C012",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 13,
+    "date": "2023-08-25T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T095",
+    "customer_id": null,
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 17,
+    "date": "2023 06 18",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T096",
+    "customer_id": "C048",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 3,
+    "date": "2023-03-09T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T097",
+    "customer_id": "C087",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 6,
+    "date": "2023-03-09T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T098",
+    "customer_id": "C041",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 2,
+    "date": "2023-03-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T099",
+    "customer_id": "C062",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 20,
+    "date": "2023-04-09T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T100",
+    "customer_id": null,
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 7,
+    "date": "2023-02-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T101",
+    "customer_id": "C002",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 6,
+    "date": "2023-08-19T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T102",
+    "customer_id": "C003",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 9,
+    "date": "2023-09-26T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T103",
+    "customer_id": "C057",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 3,
+    "date": "2023-10-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T104",
+    "customer_id": "C048",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 3,
+    "date": "2023-03-21T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T105",
+    "customer_id": "C022",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 20,
+    "date": "2023-08-31T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T106",
+    "customer_id": "C014",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 10,
+    "date": "2023-08-30T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T107",
+    "customer_id": "C004",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 11,
+    "date": "2023-02-18T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T108",
+    "customer_id": "C040",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": -3,
+    "date": "12/15/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T109",
+    "customer_id": "C087",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 10,
+    "date": "2023-10-12T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T110",
+    "customer_id": "C052",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": -9,
+    "date": "2023-07-04T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T111",
+    "customer_id": "C019",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 4,
+    "date": "2023-11-17T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T112",
+    "customer_id": "C100",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 12,
+    "date": "2023-05-02T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T113",
+    "customer_id": "C073",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 1,
+    "date": "2023-03-28T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T114",
+    "customer_id": "C068",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 13,
+    "date": "2023-12-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T115",
+    "customer_id": "C084",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 10,
+    "date": "2023-09-08T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T116",
+    "customer_id": null,
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 9,
+    "date": "2023-08-25T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T117",
+    "customer_id": "C086",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 19,
+    "date": "2023-12-14T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T118",
+    "customer_id": "C038",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 6,
+    "date": "2023-05-04T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T119",
+    "customer_id": "C058",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 3,
+    "date": "2023-12-06T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T120",
+    "customer_id": "C025",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 18,
+    "date": "2023-03-23T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T121",
+    "customer_id": "C055",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 7,
+    "date": "2023-04-06T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T122",
+    "customer_id": "C055",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 1,
+    "date": "2023-09-02T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T123",
+    "customer_id": "C058",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 11,
+    "date": "2023-12-01T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T124",
+    "customer_id": "C039",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 8,
+    "date": "2023-09-15T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T125",
+    "customer_id": "C027",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 2,
+    "date": "2023-09-03T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T126",
+    "customer_id": "C025",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 15,
+    "date": "2023-04-27T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T127",
+    "customer_id": null,
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 11,
+    "date": "2023 07 12",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T128",
+    "customer_id": "C064",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 15,
+    "date": "2023-06-30T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T129",
+    "customer_id": "C007",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 10,
+    "date": "2023-09-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T130",
+    "customer_id": "C023",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 12,
+    "date": "2023-11-17T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T131",
+    "customer_id": null,
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 8,
+    "date": "2023 10 16",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T132",
+    "customer_id": "C009",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 3,
+    "date": "2023-07-27T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T133",
+    "customer_id": "C092",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 17,
+    "date": "2023-10-17T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T134",
+    "customer_id": "C091",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 11,
+    "date": "2023-01-15T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T135",
+    "customer_id": "C040",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 7,
+    "date": "2023-02-03T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T136",
+    "customer_id": "C072",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 9,
+    "date": "2023-02-16T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T137",
+    "customer_id": "C081",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 6,
+    "date": "2023-04-25T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T138",
+    "customer_id": "C045",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 3,
+    "date": "2023-09-30T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T139",
+    "customer_id": "C025",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 2,
+    "date": "2023-06-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T140",
+    "customer_id": "C059",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 12,
+    "date": "2023-03-28T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T141",
+    "customer_id": "C083",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 8,
+    "date": "2023-06-19T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T142",
+    "customer_id": "C072",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 17,
+    "date": "2023-09-27T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T143",
+    "customer_id": "C074",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 6,
+    "date": "2023-05-02T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T144",
+    "customer_id": "C075",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 10,
+    "date": "2023-09-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T145",
+    "customer_id": "C024",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 17,
+    "date": "2023-01-10T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T146",
+    "customer_id": "C096",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 7,
+    "date": "2023-05-03T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T147",
+    "customer_id": "C049",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 7,
+    "date": "2023-04-27T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T148",
+    "customer_id": "C024",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 6,
+    "date": "2023-10-21T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T149",
+    "customer_id": "C063",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 17,
+    "date": "2023-07-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T150",
+    "customer_id": "C040",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 6,
+    "date": "2023-05-22T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T151",
+    "customer_id": "C064",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 19,
+    "date": "2023-10-09T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T152",
+    "customer_id": "C083",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 18,
+    "date": "2023-11-04T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T153",
+    "customer_id": "C031",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 17,
+    "date": "2023-07-24T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T154",
+    "customer_id": "C017",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 9,
+    "date": "2023-06-30T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T155",
+    "customer_id": "C008",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 14,
+    "date": "2023-07-12T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T156",
+    "customer_id": "C056",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 4,
+    "date": "2023-01-29T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T157",
+    "customer_id": "C069",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 2,
+    "date": "2023-10-07T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T158",
+    "customer_id": "C005",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 19,
+    "date": "2023-02-24T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T159",
+    "customer_id": "C046",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 11,
+    "date": "2023-11-09T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T160",
+    "customer_id": "C044",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 14,
+    "date": "2023-05-22T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T161",
+    "customer_id": "C052",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 9,
+    "date": "2023-06-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T162",
+    "customer_id": "C036",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 19,
+    "date": "2023-11-12T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T163",
+    "customer_id": "C051",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 19,
+    "date": "2023-06-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T164",
+    "customer_id": "C076",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 14,
+    "date": "2023-02-19T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T165",
+    "customer_id": "C075",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 11,
+    "date": "2023-04-24T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T166",
+    "customer_id": "C095",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 11,
+    "date": "2023-02-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T167",
+    "customer_id": null,
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 18,
+    "date": "17/09/2023",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T168",
+    "customer_id": "C071",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 17,
+    "date": "2023 02 18",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T169",
+    "customer_id": "C076",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 14,
+    "date": "2023-02-28T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T170",
+    "customer_id": null,
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 13,
+    "date": "20/07/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T171",
+    "customer_id": "C051",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 8,
+    "date": "2023-08-15T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T172",
+    "customer_id": "C066",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 6,
+    "date": "2023-12-12T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T173",
+    "customer_id": "C032",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 11,
+    "date": "2023-09-13T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T174",
+    "customer_id": "C054",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 8,
+    "date": "2023-10-13T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T175",
+    "customer_id": "C031",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 4,
+    "date": "2023-09-10T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T176",
+    "customer_id": "C018",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 2,
+    "date": "2023-03-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T177",
+    "customer_id": "C079",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 2,
+    "date": "2023-05-27T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T178",
+    "customer_id": "C010",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 5,
+    "date": "2023-07-06T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T179",
+    "customer_id": "C042",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 20,
+    "date": "2023-05-12T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T180",
+    "customer_id": "C063",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 4,
+    "date": "2023-03-11T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T181",
+    "customer_id": "C001",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 7,
+    "date": "12/23/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T182",
+    "customer_id": "C066",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 6,
+    "date": "2023-09-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T183",
+    "customer_id": "C005",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 18,
+    "date": "2023-03-15T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T184",
+    "customer_id": "C051",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 10,
+    "date": "2023-03-03T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T185",
+    "customer_id": "C001",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 14,
+    "date": "2023-09-28T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T186",
+    "customer_id": "C009",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 10,
+    "date": "2023-08-10T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T187",
+    "customer_id": "C076",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 11,
+    "date": "2023-07-09T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T188",
+    "customer_id": "C091",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 4,
+    "date": "2023-04-01T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T189",
+    "customer_id": "C095",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 19,
+    "date": "2023-01-28T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T190",
+    "customer_id": "C063",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 9,
+    "date": "2023-01-13T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T191",
+    "customer_id": "C063",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 1,
+    "date": "2023-11-27T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T192",
+    "customer_id": "C037",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": -9,
+    "date": "2023-04-07T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T193",
+    "customer_id": "C005",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 17,
+    "date": "2023-11-26T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T194",
+    "customer_id": "C042",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 9,
+    "date": "2023-01-15T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T195",
+    "customer_id": "C068",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 1,
+    "date": "2023-11-01T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T196",
+    "customer_id": "C034",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 1,
+    "date": "2023-10-06T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T197",
+    "customer_id": "C084",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 12,
+    "date": "2023-12-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T198",
+    "customer_id": "C052",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 10,
+    "date": "2023-09-08T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T199",
+    "customer_id": "C033",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 9,
+    "date": "2023-09-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T200",
+    "customer_id": "C048",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 2,
+    "date": "2023-12-31T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T201",
+    "customer_id": "C036",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 15,
+    "date": "2023-05-07T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T202",
+    "customer_id": "C026",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 4,
+    "date": "2023-10-04T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T203",
+    "customer_id": "C087",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": -4,
+    "date": "22/07/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T204",
+    "customer_id": "C060",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 4,
+    "date": "2023-12-04T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T205",
+    "customer_id": "C023",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 19,
+    "date": "2023-10-08T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T206",
+    "customer_id": "C046",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 6,
+    "date": "2023-03-11T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T207",
+    "customer_id": "C080",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 16,
+    "date": "2023-12-09T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T208",
+    "customer_id": "C010",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 13,
+    "date": "2023-03-22T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T209",
+    "customer_id": "C027",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 10,
+    "date": "2023-08-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T210",
+    "customer_id": null,
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": -8,
+    "date": "21/07/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T211",
+    "customer_id": "C020",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 12,
+    "date": "2023-10-26T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T212",
+    "customer_id": "C028",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 9,
+    "date": "2023-07-31T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T213",
+    "customer_id": "C076",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 14,
+    "date": "2023-10-10T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T214",
+    "customer_id": "C018",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 7,
+    "date": "2023-08-08T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T215",
+    "customer_id": "C045",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 14,
+    "date": "2023-02-16T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T216",
+    "customer_id": "C003",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 14,
+    "date": "2023-03-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T217",
+    "customer_id": "C058",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 10,
+    "date": "2023-05-02T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T218",
+    "customer_id": null,
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 17,
+    "date": "2023-05-10",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T219",
+    "customer_id": "C024",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 13,
+    "date": "2023-01-26T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T220",
+    "customer_id": "C087",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 11,
+    "date": "2023-12-30T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T221",
+    "customer_id": "C010",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 15,
+    "date": "2023-03-19T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T222",
+    "customer_id": "C044",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 1,
+    "date": "2023-02-05T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T223",
+    "customer_id": "C021",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 19,
+    "date": "2023-06-15T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T224",
+    "customer_id": "C074",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 17,
+    "date": "2023-08-06T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T225",
+    "customer_id": "C007",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 12,
+    "date": "2023-07-16T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T226",
+    "customer_id": null,
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 10,
+    "date": "2023-02-26T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T227",
+    "customer_id": "C091",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 17,
+    "date": "2023-11-06T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T228",
+    "customer_id": "C035",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 7,
+    "date": "2023-01-20T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T229",
+    "customer_id": "C011",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 12,
+    "date": "2023-12-26T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T230",
+    "customer_id": "C015",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 17,
+    "date": "2023-11-01T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T231",
+    "customer_id": "C049",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 13,
+    "date": "2023-08-31T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T232",
+    "customer_id": "C009",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 7,
+    "date": "2023-02-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T233",
+    "customer_id": null,
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": -10,
+    "date": "2023-09-17T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T234",
+    "customer_id": "C040",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 20,
+    "date": "2023-02-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T235",
+    "customer_id": "C065",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 12,
+    "date": "2023-04-13T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T236",
+    "customer_id": "C003",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 6,
+    "date": "2023-03-01T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T237",
+    "customer_id": "C048",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 16,
+    "date": "2023-12-16T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T238",
+    "customer_id": "C078",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 3,
+    "date": "2023-09-02T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T239",
+    "customer_id": "C060",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 1,
+    "date": "2023-04-05T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T240",
+    "customer_id": "C059",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 15,
+    "date": "2023-09-18T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T241",
+    "customer_id": "C012",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 15,
+    "date": "2023-04-07T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T242",
+    "customer_id": "C098",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 14,
+    "date": "2023-09-01T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T243",
+    "customer_id": "C066",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 10,
+    "date": "2023-03-27T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T244",
+    "customer_id": "C076",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 10,
+    "date": "2023-11-10T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T245",
+    "customer_id": "C078",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 7,
+    "date": "2023-04-10T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T246",
+    "customer_id": null,
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 9,
+    "date": "25/06/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T247",
+    "customer_id": "C009",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 19,
+    "date": "2023-06-10T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T248",
+    "customer_id": "C043",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 4,
+    "date": "2023-05-10T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T249",
+    "customer_id": null,
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 4,
+    "date": "2023-10-10T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T250",
+    "customer_id": "C073",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 12,
+    "date": "2023-09-24T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T251",
+    "customer_id": "C095",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 6,
+    "date": "2023-06-23T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T252",
+    "customer_id": "C023",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 15,
+    "date": "2023-04-06T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T253",
+    "customer_id": "C003",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 7,
+    "date": "2023-12-28T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T254",
+    "customer_id": "C088",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 6,
+    "date": "2023-05-15T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T255",
+    "customer_id": "C059",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 11,
+    "date": "08/09/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T256",
+    "customer_id": "C037",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 3,
+    "date": "2023-05-22T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T257",
+    "customer_id": null,
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": -4,
+    "date": "2023-05-24T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T258",
+    "customer_id": "C073",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 14,
+    "date": "2023-10-19T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T259",
+    "customer_id": "C012",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 9,
+    "date": "2023-10-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T260",
+    "customer_id": "C059",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 12,
+    "date": "2023-11-15T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T261",
+    "customer_id": "C029",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 18,
+    "date": "2023-09-04T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T262",
+    "customer_id": "C028",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 1,
+    "date": "2023-12-19T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T263",
+    "customer_id": null,
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 15,
+    "date": "2023-06-15T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T264",
+    "customer_id": "C080",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 13,
+    "date": "2023-03-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T265",
+    "customer_id": "C012",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 12,
+    "date": "2023-07-10T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T266",
+    "customer_id": "C040",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 7,
+    "date": "10/23/2023",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T267",
+    "customer_id": "C042",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 9,
+    "date": "2023-12-13T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T268",
+    "customer_id": "C081",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 11,
+    "date": "2023-09-10T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T269",
+    "customer_id": "C098",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 12,
+    "date": "2023-08-22T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T270",
+    "customer_id": "C068",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 6,
+    "date": "2023-11-08T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T271",
+    "customer_id": "C099",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 11,
+    "date": "2023-06-23T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T272",
+    "customer_id": "C085",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 16,
+    "date": "2023-12-15T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T273",
+    "customer_id": "C022",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 5,
+    "date": "2023-09-15T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T274",
+    "customer_id": "C053",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 12,
+    "date": "2023-02-12T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T275",
+    "customer_id": "C027",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 10,
+    "date": "2023-05-26T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T276",
+    "customer_id": null,
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 11,
+    "date": "24/05/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T277",
+    "customer_id": "C001",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 14,
+    "date": "2023-10-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T278",
+    "customer_id": "C060",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 1,
+    "date": "09/07/2023",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T279",
+    "customer_id": "C015",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 20,
+    "date": "2023-12-13T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T280",
+    "customer_id": "C091",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 14,
+    "date": "2023-09-13T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T281",
+    "customer_id": "C013",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 10,
+    "date": "2023-03-25T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T282",
+    "customer_id": "C044",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 20,
+    "date": "2023-12-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T283",
+    "customer_id": "C081",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 11,
+    "date": "2023-03-04T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T284",
+    "customer_id": "C075",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 10,
+    "date": "2023-11-06T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T285",
+    "customer_id": "C067",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 15,
+    "date": "2023-04-16T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T286",
+    "customer_id": "C083",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 12,
+    "date": "2023-05-07T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T287",
+    "customer_id": "C078",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 1,
+    "date": "2023-02-17T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T288",
+    "customer_id": "C064",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 1,
+    "date": "2023-04-11T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T289",
+    "customer_id": "C063",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 1,
+    "date": "2023-12-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T290",
+    "customer_id": "C060",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 4,
+    "date": "2023-04-03T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T291",
+    "customer_id": "C056",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 9,
+    "date": "2023-01-06T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T292",
+    "customer_id": "C049",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 7,
+    "date": "2023-11-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T293",
+    "customer_id": "C062",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 7,
+    "date": "2023-11-05T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T294",
+    "customer_id": "C037",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 11,
+    "date": "2023-12-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T295",
+    "customer_id": "C099",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 11,
+    "date": "2023-03-24T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T296",
+    "customer_id": "C083",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 12,
+    "date": "2023-05-03T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T297",
+    "customer_id": "C094",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 1,
+    "date": "2023-01-27T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T298",
+    "customer_id": "C045",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 10,
+    "date": "2023-12-03T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T299",
+    "customer_id": "C053",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 9,
+    "date": "2023-06-23T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T300",
+    "customer_id": null,
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 16,
+    "date": "2023-08-27",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T301",
+    "customer_id": "C045",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 7,
+    "date": "2023-11-30T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T302",
+    "customer_id": null,
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": -2,
+    "date": "17/10/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T303",
+    "customer_id": "C049",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 14,
+    "date": "2023-01-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T304",
+    "customer_id": "C064",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 3,
+    "date": "2023-05-31T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T305",
+    "customer_id": "C012",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 13,
+    "date": "2023-09-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T306",
+    "customer_id": null,
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 2,
+    "date": "2023-07-01T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T307",
+    "customer_id": "C077",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 7,
+    "date": "2023-10-14T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T308",
+    "customer_id": "C070",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 20,
+    "date": "2023-12-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T309",
+    "customer_id": "C010",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 11,
+    "date": "2023-04-17T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T310",
+    "customer_id": "C041",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 15,
+    "date": "2023-11-22T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T311",
+    "customer_id": "C005",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": -2,
+    "date": "2023-05-10T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T312",
+    "customer_id": "C094",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 12,
+    "date": "2023-11-15T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T313",
+    "customer_id": "C050",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 5,
+    "date": "2023-03-13T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T314",
+    "customer_id": "C010",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 19,
+    "date": "2023-04-05T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T315",
+    "customer_id": "C099",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 10,
+    "date": "2023-03-09T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T316",
+    "customer_id": "C084",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 17,
+    "date": "2023-08-01T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T317",
+    "customer_id": "C071",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 13,
+    "date": "2023-02-22T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T318",
+    "customer_id": "C062",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 9,
+    "date": "2023-07-25T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T319",
+    "customer_id": "C007",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 17,
+    "date": "2023-03-08T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T320",
+    "customer_id": "C074",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 1,
+    "date": "2023-06-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T321",
+    "customer_id": "C022",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 19,
+    "date": "2023-02-17T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T322",
+    "customer_id": "C041",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 3,
+    "date": "2023-12-28T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T323",
+    "customer_id": "C074",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 5,
+    "date": "2023-07-16T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T324",
+    "customer_id": "C085",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 11,
+    "date": "2023-05-27T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T325",
+    "customer_id": "C048",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 14,
+    "date": "2023-11-18T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T326",
+    "customer_id": "C076",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 6,
+    "date": "2023-11-11T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T327",
+    "customer_id": "C035",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 14,
+    "date": "2023-04-06T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T328",
+    "customer_id": "C018",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 3,
+    "date": "2023-12-05T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T329",
+    "customer_id": "C029",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 13,
+    "date": "2023-12-03T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T330",
+    "customer_id": "C017",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 20,
+    "date": "2023-06-03T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T331",
+    "customer_id": null,
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 7,
+    "date": "2023-12-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T332",
+    "customer_id": null,
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 11,
+    "date": "15/10/2023",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T333",
+    "customer_id": "C069",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 9,
+    "date": "2023-11-27T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T334",
+    "customer_id": "C067",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 13,
+    "date": "2023-09-25T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T335",
+    "customer_id": "C064",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 8,
+    "date": "2023-04-13T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T336",
+    "customer_id": "C059",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 14,
+    "date": "2023-11-14T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T337",
+    "customer_id": "C076",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 2,
+    "date": "2023-07-20T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T338",
+    "customer_id": "C034",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 13,
+    "date": "2023-03-01T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T339",
+    "customer_id": "C060",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 2,
+    "date": "2023-04-02T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T340",
+    "customer_id": "C094",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 8,
+    "date": "2023-05-11T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T341",
+    "customer_id": "C008",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 17,
+    "date": "2023-06-18T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T342",
+    "customer_id": "C011",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 14,
+    "date": "2023-06-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T343",
+    "customer_id": "C027",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 7,
+    "date": "2023 05 04",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T344",
+    "customer_id": "C041",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 2,
+    "date": "2023-11-06T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T345",
+    "customer_id": "C055",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 1,
+    "date": "2023-01-04T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T346",
+    "customer_id": "C081",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 4,
+    "date": "2023-11-28T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T347",
+    "customer_id": "C096",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 3,
+    "date": "2023-07-08T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T348",
+    "customer_id": "C078",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 3,
+    "date": "2023-01-14T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T349",
+    "customer_id": "C059",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 8,
+    "date": "2023-05-28T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T350",
+    "customer_id": "C081",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 5,
+    "date": "2023-10-10T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T351",
+    "customer_id": "C018",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": -2,
+    "date": "2023 08 10",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T352",
+    "customer_id": "C014",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 20,
+    "date": "2023-12-31T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T353",
+    "customer_id": "C007",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 14,
+    "date": "2023-11-04T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T354",
+    "customer_id": "C064",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 20,
+    "date": "2023-05-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T355",
+    "customer_id": "C025",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 1,
+    "date": "2023-03-21T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T356",
+    "customer_id": "C010",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 10,
+    "date": "19/10/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T357",
+    "customer_id": "C017",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 12,
+    "date": "2023-11-16T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T358",
+    "customer_id": "C083",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 17,
+    "date": "07/14/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T359",
+    "customer_id": "C023",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 10,
+    "date": "2023-12-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T360",
+    "customer_id": "C009",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 4,
+    "date": "08/19/2023",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T361",
+    "customer_id": "C058",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 15,
+    "date": "2023-02-13T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T362",
+    "customer_id": "C003",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 14,
+    "date": "2023-01-18T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T363",
+    "customer_id": "C026",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 4,
+    "date": "2023-12-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T364",
+    "customer_id": "C068",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 9,
+    "date": "2023-01-12T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T365",
+    "customer_id": "C030",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 9,
+    "date": "2023-07-22T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T366",
+    "customer_id": null,
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": -5,
+    "date": "2023-10-20T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T367",
+    "customer_id": "C029",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 7,
+    "date": "2023-11-07T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T368",
+    "customer_id": "C025",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 15,
+    "date": "2023-08-26T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T369",
+    "customer_id": "C089",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 2,
+    "date": "2023-01-26T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T370",
+    "customer_id": "C080",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 10,
+    "date": "2023-09-14T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T371",
+    "customer_id": "C004",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 6,
+    "date": "2023-12-06T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T372",
+    "customer_id": "C016",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 11,
+    "date": "2023-11-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T373",
+    "customer_id": "C060",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 8,
+    "date": "2023-10-13T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T374",
+    "customer_id": "C018",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 16,
+    "date": "2023-12-27T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T375",
+    "customer_id": "C071",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 15,
+    "date": "2023-08-10T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T376",
+    "customer_id": "C033",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 14,
+    "date": "2023-01-21T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T377",
+    "customer_id": "C020",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 19,
+    "date": "2023-10-01T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T378",
+    "customer_id": "C087",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 18,
+    "date": "2023-01-16T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T379",
+    "customer_id": "C026",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 3,
+    "date": "2023-07-09T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T380",
+    "customer_id": "C095",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 11,
+    "date": "08/05/2023",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T381",
+    "customer_id": "C027",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 3,
+    "date": "2023-09-29T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T382",
+    "customer_id": null,
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 14,
+    "date": "2023-08-27T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T383",
+    "customer_id": "C092",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 13,
+    "date": "2023-03-05T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T384",
+    "customer_id": "C062",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 9,
+    "date": "2023-07-08T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T385",
+    "customer_id": "C022",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 10,
+    "date": "2023-10-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T386",
+    "customer_id": "C015",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 13,
+    "date": "2023-07-26T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T387",
+    "customer_id": "C067",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 8,
+    "date": "2023-09-06T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T388",
+    "customer_id": "C025",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 10,
+    "date": "2023-12-22T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T389",
+    "customer_id": "C088",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 10,
+    "date": "2023-08-03T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T390",
+    "customer_id": "C094",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 11,
+    "date": "2023-05-19T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T391",
+    "customer_id": "C071",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 11,
+    "date": "2023-06-15T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T392",
+    "customer_id": "C030",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 16,
+    "date": "2023-09-03T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T393",
+    "customer_id": "C093",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 8,
+    "date": "2023-05-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T394",
+    "customer_id": "C097",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 5,
+    "date": "2023-11-14T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T395",
+    "customer_id": "C078",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": -6,
+    "date": "2023-03-13",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T396",
+    "customer_id": "C035",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 8,
+    "date": "2023-03-12T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T397",
+    "customer_id": "C053",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 9,
+    "date": "2023-09-24T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T398",
+    "customer_id": "C012",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 19,
+    "date": "2023-04-08T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T399",
+    "customer_id": "C067",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 9,
+    "date": "2023-07-15T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T400",
+    "customer_id": "C067",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 3,
+    "date": "2023-03-13T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T401",
+    "customer_id": "C046",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 16,
+    "date": "2023-09-19T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T402",
+    "customer_id": "C037",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 5,
+    "date": "2023-08-05T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T403",
+    "customer_id": "C043",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 18,
+    "date": "2023-07-04T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T404",
+    "customer_id": "C049",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 2,
+    "date": "2023-04-11T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T405",
+    "customer_id": "C073",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 9,
+    "date": "2023-02-11T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T406",
+    "customer_id": "C060",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": -3,
+    "date": "27/05/2023",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T407",
+    "customer_id": "C093",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 16,
+    "date": "2023-01-23T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T408",
+    "customer_id": "C069",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 10,
+    "date": "2023-06-22T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T409",
+    "customer_id": "C069",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 20,
+    "date": "2023-05-16T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T410",
+    "customer_id": "C098",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 7,
+    "date": "2023-02-04T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T411",
+    "customer_id": "C091",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 17,
+    "date": "2023-01-01T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T412",
+    "customer_id": "C040",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 1,
+    "date": "2023-04-06T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T413",
+    "customer_id": "C073",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 2,
+    "date": "2023-11-28T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T414",
+    "customer_id": "C007",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 19,
+    "date": "2023-04-26T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T415",
+    "customer_id": "C028",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 19,
+    "date": "2023-11-25T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T416",
+    "customer_id": "C032",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 3,
+    "date": "2023-05-06T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T417",
+    "customer_id": "C100",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 3,
+    "date": "2023-07-06T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T418",
+    "customer_id": null,
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 5,
+    "date": "2023-04-21",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T419",
+    "customer_id": "C029",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 5,
+    "date": "2023-05-14T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T420",
+    "customer_id": "C026",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 14,
+    "date": "2023-12-12T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T421",
+    "customer_id": "C074",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 14,
+    "date": "2023-08-29T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T422",
+    "customer_id": "C078",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 6,
+    "date": "2023-12-16T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T423",
+    "customer_id": "C002",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 8,
+    "date": "2023-10-28T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T424",
+    "customer_id": "C090",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 8,
+    "date": "2023-07-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T425",
+    "customer_id": "C024",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 10,
+    "date": "2023-12-12T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T426",
+    "customer_id": "C043",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 5,
+    "date": "2023-09-08T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T427",
+    "customer_id": "C012",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 5,
+    "date": "2023-08-29T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T428",
+    "customer_id": "C031",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 11,
+    "date": "2023-07-31T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T429",
+    "customer_id": "C051",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 16,
+    "date": "2023-09-24T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T430",
+    "customer_id": "C025",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 5,
+    "date": "2023-06-11T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T431",
+    "customer_id": "C091",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 19,
+    "date": "2023-01-07T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T432",
+    "customer_id": "C056",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 5,
+    "date": "2023-05-22T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T433",
+    "customer_id": null,
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 7,
+    "date": "2023-03-30",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T434",
+    "customer_id": "C022",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 2,
+    "date": "2023-07-29T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T435",
+    "customer_id": "C099",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 16,
+    "date": "2023-04-29T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T436",
+    "customer_id": "C010",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 12,
+    "date": "2023-03-15T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T437",
+    "customer_id": "C020",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 20,
+    "date": "2023-10-26T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T438",
+    "customer_id": "C052",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 20,
+    "date": "2023-01-23T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T439",
+    "customer_id": "C072",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 13,
+    "date": "2023-02-24T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T440",
+    "customer_id": "C078",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 14,
+    "date": "2023-12-08T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T441",
+    "customer_id": "C048",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 5,
+    "date": "2023-05-25T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T442",
+    "customer_id": "C058",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 4,
+    "date": "2023-05-06T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T443",
+    "customer_id": "C087",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": -3,
+    "date": "2023 04 02",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T444",
+    "customer_id": "C065",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 5,
+    "date": "2023-04-24T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T445",
+    "customer_id": "C006",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 2,
+    "date": "2023-04-06T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T446",
+    "customer_id": "C006",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 4,
+    "date": "2023-12-01T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T447",
+    "customer_id": "C080",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 5,
+    "date": "2023-02-19T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T448",
+    "customer_id": "C093",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 10,
+    "date": "2023-11-16T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T449",
+    "customer_id": "C011",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": -9,
+    "date": "2023-08-05",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T450",
+    "customer_id": "C071",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 2,
+    "date": "2023-02-01T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T451",
+    "customer_id": "C065",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 2,
+    "date": "2023-09-21T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T452",
+    "customer_id": "C089",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 10,
+    "date": "2023-03-27T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T453",
+    "customer_id": "C020",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 4,
+    "date": "2023-08-11T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T454",
+    "customer_id": "C020",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 4,
+    "date": "2023-11-03T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T455",
+    "customer_id": "C082",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 12,
+    "date": "2023-11-07T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T456",
+    "customer_id": "C083",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 12,
+    "date": "2023-02-17T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T457",
+    "customer_id": "C049",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 17,
+    "date": "2023-04-28T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T458",
+    "customer_id": "C096",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 11,
+    "date": "2023-10-24T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T459",
+    "customer_id": "C020",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 7,
+    "date": "2023-12-26T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T460",
+    "customer_id": "C095",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 7,
+    "date": "2023-03-29T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T461",
+    "customer_id": "C048",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 9,
+    "date": "2023-05-15T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T462",
+    "customer_id": "C072",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 19,
+    "date": "2023-07-23T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T463",
+    "customer_id": "C094",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 16,
+    "date": "2023-01-26T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T464",
+    "customer_id": "C010",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 20,
+    "date": "2023-04-28T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T465",
+    "customer_id": "C048",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 20,
+    "date": "2023-01-07T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T466",
+    "customer_id": "C017",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 19,
+    "date": "2023-06-19T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T467",
+    "customer_id": "C042",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 15,
+    "date": "2023-12-14T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T468",
+    "customer_id": "C078",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 13,
+    "date": "2023-05-26T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T469",
+    "customer_id": "C012",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 15,
+    "date": "2023-03-01T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T470",
+    "customer_id": "C021",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 18,
+    "date": "2023-05-20T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T471",
+    "customer_id": null,
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 17,
+    "date": "2023-08-07T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T472",
+    "customer_id": "C007",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 20,
+    "date": "2023-06-24T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T473",
+    "customer_id": "C035",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 11,
+    "date": "2023-08-09T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T474",
+    "customer_id": "C091",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 4,
+    "date": "2023-05-29T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T475",
+    "customer_id": "C058",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 10,
+    "date": "2023-09-25T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T476",
+    "customer_id": "C008",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": -3,
+    "date": "2023-05-15T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T477",
+    "customer_id": "C022",
+    "product": {
+      "id": "P08",
+      "name": "USB Drive",
+      "category": "Storage",
+      "price": 15.99
+    },
+    "quantity": 18,
+    "date": "2023-07-07T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T478",
+    "customer_id": "C044",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 14,
+    "date": "2023-04-18T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T479",
+    "customer_id": "C010",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 17,
+    "date": "2023-07-19T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T480",
+    "customer_id": "C009",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 8,
+    "date": "2023-12-25T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T481",
+    "customer_id": "C059",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 14,
+    "date": "2023-11-09T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T482",
+    "customer_id": "C089",
+    "product": {
+      "id": "P11",
+      "name": "Printer",
+      "category": "Office",
+      "price": 199.99
+    },
+    "quantity": 18,
+    "date": "2023-11-13T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T483",
+    "customer_id": "C060",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 9,
+    "date": "2023-06-21T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T484",
+    "customer_id": "C095",
+    "product": {
+      "id": "P06",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99
+    },
+    "quantity": 19,
+    "date": "08/04/2023",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T485",
+    "customer_id": "C021",
+    "product": {
+      "id": "P01",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99
+    },
+    "quantity": 18,
+    "date": "2023-08-24T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T486",
+    "customer_id": "C080",
+    "product": {
+      "id": "P10",
+      "name": "Camera",
+      "category": "Electronics",
+      "price": 349.99
+    },
+    "quantity": 11,
+    "date": "2023-07-13T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T487",
+    "customer_id": "C061",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": -8,
+    "date": "2023-01-22",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T488",
+    "customer_id": "C074",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 8,
+    "date": "2023-06-16T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T489",
+    "customer_id": "C098",
+    "product": {
+      "id": "P03",
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.5
+    },
+    "quantity": 2,
+    "date": "2023-08-31T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T490",
+    "customer_id": "C057",
+    "product": {
+      "id": "P02",
+      "name": "Mouse",
+      "category": "Accessories",
+      "price": 19.99
+    },
+    "quantity": 18,
+    "date": "2023-10-18T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T491",
+    "customer_id": "C050",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 9,
+    "date": "2023-01-22T00:00:00Z",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T492",
+    "customer_id": "C077",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 13,
+    "date": "2023-12-02T00:00:00Z",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T493",
+    "customer_id": "C059",
+    "product": {
+      "id": "P07",
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 499.99
+    },
+    "quantity": 5,
+    "date": "2023-09-30T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T494",
+    "customer_id": "C087",
+    "product": {
+      "id": "P13",
+      "name": "Router",
+      "category": "Networking",
+      "price": 59.99
+    },
+    "quantity": 2,
+    "date": "15/03/2023",
+    "region": "South"
+  },
+  {
+    "transaction_id": "T495",
+    "customer_id": "C034",
+    "product": {
+      "id": "P04",
+      "name": "Keyboard",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    "quantity": 4,
+    "date": "2023-04-02T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T496",
+    "customer_id": "C069",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": 4,
+    "date": "2023-06-20T00:00:00Z",
+    "region": "East"
+  },
+  {
+    "transaction_id": "T497",
+    "customer_id": "C013",
+    "product": {
+      "id": "P12",
+      "name": "Speaker",
+      "category": "Audio",
+      "price": 79.99
+    },
+    "quantity": 3,
+    "date": "2023-04-30T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T498",
+    "customer_id": "C073",
+    "product": {
+      "id": "P09",
+      "name": "External HDD",
+      "category": "Storage",
+      "price": 89.99
+    },
+    "quantity": -10,
+    "date": "29/01/2023",
+    "region": "West"
+  },
+  {
+    "transaction_id": "T499",
+    "customer_id": "C051",
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 2,
+    "date": "2023-08-06T00:00:00Z",
+    "region": "North"
+  },
+  {
+    "transaction_id": "T500",
+    "customer_id": null,
+    "product": {
+      "id": "P05",
+      "name": "Headphones",
+      "category": "Audio",
+      "price": 129.99
+    },
+    "quantity": 7,
+    "date": "2023-12-03T00:00:00Z",
+    "region": "West"
+  }
+]
