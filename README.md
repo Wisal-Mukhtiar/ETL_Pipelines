@@ -4,8 +4,21 @@ This repository contains the implementation of a complete data pipeline, from ba
 
 ## Repository Structure
 
-<pre> ```text . ├── Part1/ │ └── basic_etl.py ├── Part2/ │ └── db_design_and_queries.sql ├── Part3_Part4/ │ ├── advanced_etl_pipeline.py │ └── optimized_queries.sql ├── Part5/ │ ├── dashboard.pbix │ └── dashboard_explanation.pdf ├── Dataset_Creator/ │ └── scale_dataset.py ├── Data/ │ └── [dataset files] └── README.md ``` </pre>
-
+├── Part1/
+│   └── basic_etl.py
+├── Part2/
+│   └── db_design_and_queries.sql
+├── Part3_Part4/
+│   ├── advanced_etl_pipeline.py
+│   └── optimized_queries.sql
+├── Part5/
+│   ├── dashboard.pbix
+│   └── dashboard_explanation.pdf
+├── Dataset_Creator/
+│   └── scale_dataset.py
+├── Data/
+│   └── [dataset files]
+└── README.md
 
 ## Part 1: Basic ETL
 
