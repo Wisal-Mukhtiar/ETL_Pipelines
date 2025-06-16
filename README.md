@@ -3,7 +3,7 @@
 This repository contains the implementation of a complete data pipeline, from basic ETL to advanced processing and dashboard visualization. The project is divided into five parts, each organized in a separate folder for clarity. Additional folders are provided for dataset creation and data storage.
 
 ## Repository Structure
-
+'''
 ├── Part1/
 │   └── basic_etl.py
 ├── Part2/
@@ -19,7 +19,7 @@ This repository contains the implementation of a complete data pipeline, from ba
 ├── Data/
 │   └── [dataset files]
 └── README.md
-
+'''
 ## Part 1: Basic ETL
 
 This part includes a single Python script (`basic_etl.py`) implementing a basic ETL pipeline as described in the Data Pipeline Development section. It covers the initial extraction, transformation, and loading of the dataset into a target structure.
